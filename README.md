@@ -1,7 +1,7 @@
 # Magento
 
     Used tecnology - PHP, Magento 1, JavaScript, JQuery
-    Project description:
+    Project description (Projects folder):
        ApiCompany - imports data to database from other source throw SOAP
        ApiExtended - creates SOAP service
        CalendarEvents - integrates jquery-calendar in template, and creates admin configuration
