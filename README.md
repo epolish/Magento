@@ -1,6 +1,6 @@
 # Magento(v1)
 
-## Project description:
+## Description of the modules:
     
   * ApiCompany - imports data to database from other source through SOAP
     
